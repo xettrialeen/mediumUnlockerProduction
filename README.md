@@ -2,7 +2,7 @@
 #  Medium Unlocker Method 2
 
 
-![Medium Unlocker ](https://raw.githubusercontent.com/xettrialeen/PreviewedPremiumUnlocked/main/previewedUnlocked.png)
+![Medium Unlocker ](https://raw.githubusercontent.com/xettrialeen/mediumUnlockerProduction/main/mediumUnlocker.png)
 
 
 
