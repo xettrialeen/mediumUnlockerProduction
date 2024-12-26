@@ -2,38 +2,77 @@
 #  Medium Unlocker Method 2
 
 
+
+Show Image
 ![Medium Unlocker ](https://raw.githubusercontent.com/xettrialeen/mediumUnlockerProduction/main/mediumUnlocker.png)
 
 
+Features
+--------
 
-### Unlocked Features like? 
+*   Preview Medium articles without page exit
+    
+*   Drag & resize preview window
+    
+*   Context menu integration
+    
+*   Fullscreen mode
+    
+*   Clean interface
+    
+*   readmedium.com integration
+    
 
-- ✅ Bypasses Mediums Paywall
+Installation
+------------
 
+1.  Install Tampermonkey
+    
+2.  Add userscript
+    
+3.  Works automatically on Medium links
+    
 
-note: Please give credit if youre doing some rechanges it takes lot of effort to find and attach fixes :) 
+Usage
+-----
 
+*   Right-click Medium link
+    
+*   Select "Preview Article"
+    
+*   Drag header to move
+    
+*   Resize from corners/edges
+    
+*   Toggle fullscreen
+    
+*   Open in new tab
+    
+*   Close with X
+    
 
-### Installation Guideliness
+Technical
+---------
 
-You need to install chrome extension
-https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino
+*   Responsive window
+    
+*   Modern UI with blur
+    
+*   Favicon integration
+    
+*   Sandboxed iframe
+    
+*   Context menu support
+    
 
-after installation click on this extension to turn on cors Bypass
-add userScript on tampermonkey then reload paywall url thats it :)
+Author
+------
 
-## Authors
+[@xettrialeen](https://github.com/xettrialeen)
 
-- [@xettrialeen](https://github.com/xettrialeen)
+About
+-----
 
+Working with Sveltekit, Pocketbase, Spline, Figma, Tauri and reverse engineering.
 
-## 🚀 About Me
-Banging Heads with Sveltekit, Pocketbase, Spline, Figma,Tauri
-And reverse engineering.
-
-
-## 🛠 Skills
-you know me
-
-
-
+Note: Credit required for modifications.
